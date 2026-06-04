@@ -1,0 +1,6 @@
+{
+  "name": "Show-Off",
+  "description": "An open-source public project transparency platform for modern builders to share progress, dev-logs, status updates, and build momentum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
